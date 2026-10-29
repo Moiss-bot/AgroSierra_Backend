@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: AgroApi_Ticona
+  profiles:
+    active: dev
